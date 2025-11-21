@@ -60,3 +60,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Ultralytics for providing the YOLOv8 implementation.
 - OpenCV for the powerful computer vision functionalities.
 - Contributors to various libraries and frameworks used in this project.
+
+.
